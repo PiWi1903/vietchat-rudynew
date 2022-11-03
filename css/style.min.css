@@ -11610,8 +11610,8 @@ html.over.wrapper-button.phone aflow {
     left: 0;
     max-height: 75px;
     height: 75px;
-    background-image: linear-gradient(red, yellow);
-    /* background-image: linear-gradient(to top, #65dddd 0, #5d62ff 100%) */
+    /* background-image: linear-gradient(red, yellow); */ 
+    background-image: linear-gradient(to top, #65dddd 0, #5d62ff 100%) 
 }
 
 .chat-header-container.top {
@@ -11734,8 +11734,8 @@ html.over.wrapper-button.phone aflow {
     /* phần chat */
     height: 100%;
     padding: 75px 0 25px 0;
-    /* background: #e3e3e3 */
-    background-image: url("../img/bgr.jpeg");
+    background: #e3e3e3;
+    /* background-image: url("../img/bgr.jpeg"); */
     background-repeat: no-repeat;
     background-size: cover;
 }
