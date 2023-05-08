@@ -142,12 +142,11 @@ $(document).ready(function (e) {
             w: [
                 [
                     [
-                        {text: 'Ikaw ay isang napaka-patas na tao, palaging makinig sa mga tao mula sa magkabilang panig, hindi mahilig makipag-usap nang labis at napopoot sa pagiging kumplikado. Minsan marami kang iniisip tungkol sa isang problema, pagkatapos mong pag-isipang mabuti ito ay gagawa ka ng pinakamahusay na pagpipilian.'},
-                        {text: '<br><img width="400px" src="img/2.jpeg"></br>'},
-                        {text: "Ang iyong landas sa karera ay madalas na puno ng mga paghihirap. Karamihan sa mga tao ay laban sa iyo, ito ay dahil pinipigilan ka ng madilim na pwersa kaya't hindi naging maayos ang iyong buhay. Huwag mong palampasin ang anuman, tutulungan kitang harapin ang mga masasamang bagay na patuloy na pumipigil sa iyo."},
+                        {text: 'Ikaw ay isang mahusay na solver ng problema pati na rin ang isang mahusay na tagapakinig upang ang mga tao ay makaramdam ng tiwala sa iyo at hilingin sa iyo na lutasin ang kanilang mga problema. Ikaw ay napakatalino at napakabilis na malulutas ang mga problema, kung sa pinakamabuting kalagayan ng pamumuhay ikaw ay magiging isang mahusay na pinuno.'},
+                        {text: "Ang hirap intindihin! Ang mga numero ay nagsasabi na ikaw ay isang napakaswerteng tao ngunit ngayon ay kailangan mong humingi ng tulong sa akin. Marahil ay may pumipigil na madilim na puwersa, na ginagawang hindi gaanong maayos ang iyong buhay."},
                         {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
-                        {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas mapalad kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight. Tutulungan kitang mahanap ang huling numero na magpapabago ng buhay.'},
-                        {text: "Upang malaman ang iyong kapalaran sa hinaharap, paikutin ang gulong ng astrolohiya, ito ang magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap, maiiwasan mo ang malas kung paikutin mo ang gulong na ito astrolohiya."},
+                        {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas masuwerteng kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight.'},
+                        {text: "Huwag mag-alala nandito ako para tulungan kang mahanap ang tamang direksyon. Kung gusto mong maging isa sa 433 nanalo sa lottery, kailangan mo munang subukan ang astrological wheel, na magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap. Kung nababagay sa iyo, tutulungan kitang mahanap ang huling numero na magbabago sa iyong buhay."},
                     ],
                     [
                         {text: " "},
@@ -157,12 +156,11 @@ $(document).ready(function (e) {
             m: [
                 [
                     [
-                        {text: 'Ikaw ay isang napaka-patas na tao, palaging makinig sa mga tao mula sa magkabilang panig, hindi mahilig makipag-usap nang labis at napopoot sa pagiging kumplikado. Minsan marami kang iniisip tungkol sa isang problema, pagkatapos mong pag-isipang mabuti ito ay gagawa ka ng pinakamahusay na pagpipilian.'},
-                        {text: '<br><img width="400px" src="img/2.jpeg"></br>'},
-                        {text: "Ang iyong landas sa karera ay madalas na puno ng mga paghihirap. Karamihan sa mga tao ay laban sa iyo, ito ay dahil pinipigilan ka ng madilim na pwersa kaya't hindi naging maayos ang iyong buhay. Huwag mong palampasin ang anuman, tutulungan kitang harapin ang mga masasamang bagay na patuloy na pumipigil sa iyo."},
+                        {text: 'Ikaw ay isang mahusay na solver ng problema pati na rin ang isang mahusay na tagapakinig upang ang mga tao ay makaramdam ng tiwala sa iyo at hilingin sa iyo na lutasin ang kanilang mga problema. Ikaw ay napakatalino at napakabilis na malulutas ang mga problema, kung sa pinakamabuting kalagayan ng pamumuhay ikaw ay magiging isang mahusay na pinuno.'},
+                        {text: "Ang hirap intindihin! Ang mga numero ay nagsasabi na ikaw ay isang napakaswerteng tao ngunit ngayon ay kailangan mong humingi ng tulong sa akin. Marahil ay may pumipigil na madilim na puwersa, na ginagawang hindi gaanong maayos ang iyong buhay."},
                         {text: '<br><img width="400px" src="img/sep.jpeg"></br>'},
-                        {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas mapalad kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight. Tutulungan kitang mahanap ang huling numero na magpapabago ng buhay.'},
-                        {text: "Upang malaman ang iyong kapalaran sa hinaharap, paikutin ang gulong ng astrolohiya, ito ang magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap, maiiwasan mo ang malas kung paikutin mo ang gulong na ito astrolohiya."},
+                        {text: 'Ang lahat ng tungkol sa iyo ay nagpapakita na ikaw ay ipinanganak upang maging masaya, na ikaw ay mas masuwerteng kaysa sa karamihan, at ang iyong mga pagpipilian ay palaging tama at foresight.'},
+                        {text: "Huwag mag-alala nandito ako para tulungan kang mahanap ang tamang direksyon. Kung gusto mong maging isa sa 433 nanalo sa lottery, kailangan mo munang subukan ang astrological wheel, na magsasabi sa iyo kung ano ang mangyayari sa iyo sa malapit na hinaharap. Kung nababagay sa iyo, tutulungan kitang mahanap ang huling numero na magbabago sa iyong buhay."},
                     ],
                     [
                         {text: ""},
